@@ -1,1 +1,1 @@
-# CodSoft_Task-01_Titanic-Survial-Prediction-Kancharana-Revanth-
+# CodSoft_DataScience_Task1-3-Kancharana-Revanth
